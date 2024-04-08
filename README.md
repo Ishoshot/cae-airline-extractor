@@ -2,7 +2,7 @@
 
 This README.md file provides instructions for setting up and running the application using Laravel Sail.
 
-Postman collection named "CAE Airline Roster.postman_collection.json" can be found in the project root folder.
+-   Postman collection named "CAE Airline Roster.postman_collection.json" can be found in the project root folder.
 
 ## Prerequisites
 
