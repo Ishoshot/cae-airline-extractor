@@ -17,13 +17,13 @@ Follow these steps to set up and run the application:
 1. Clone the repository:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/Ishoshot/cae-airline-extractor arline-extractor
     ```
 
 2. Change into the project directory:
 
     ```bash
-    cd my-laravel-app
+    cd arline-extractor
     ```
 
 3. Copy the example environment file and update it with your configuration:
